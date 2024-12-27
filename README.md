@@ -1,0 +1,1 @@
+This is a simple expense tracking app using HTML, CSS and JavaScript.  This was from a tutorial, with some slight modifications to suit my need.  You enter a description of the expense, an expense amount, and select the date.  Each time an expense is added, the total updates.  Entries can be removed by clicking the delete button on the right end of each row. 
